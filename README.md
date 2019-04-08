@@ -37,5 +37,5 @@ Here is a snap of the SVM code:
 
 ### Conclusion
 1. Accuracy with SVM is 88.8%
-2. Accuracy with Logistic Regression is 90%
+2. Accuracy with Logistic Regression is 90%. 
 Hence it can be seen that Logistic Regression performs better than SVM in this case.
