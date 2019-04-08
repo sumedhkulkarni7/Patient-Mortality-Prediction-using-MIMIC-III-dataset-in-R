@@ -30,7 +30,12 @@ Deploy Machine Learning classification techniques like SVM, Logistic Regression,
 5. Plot the accuracy graphs of different techniques.
 
 ### Insight
+Here is a snap of the SVM code:
+
+![image](https://user-images.githubusercontent.com/35174083/55753807-374d3600-5a19-11e9-97d6-6dd43f00f9a7.png)
 
 
 ### Conclusion
-1.
+1. Accuracy with SVM is 88.8%
+2. Accuracy with Logistic Regression is 90%
+Hence it can be seen that Logistic Regression performs better than SVM in this case.
